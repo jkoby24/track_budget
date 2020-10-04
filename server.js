@@ -22,7 +22,6 @@ mongoose.connect('mongodb://localhost/budget', {
   useCreateIndex: true,
 });
 
-// routes
 app.use(require('./routes/api.js'));
 
 app.listen(PORT, () => {
