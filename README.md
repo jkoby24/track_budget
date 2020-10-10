@@ -3,7 +3,7 @@
 ## Description
 This application allows the user to keep track of their budget whether online or offline. The user has the ability to add a transaction, which can then be subtracted or added to the overall funds available. This app utilizes a MongoDB database. 
 
-![](/public/assets/images/screenshot1.png)
+![](/public/images/screenshot1.png)
 
 ## Table of Contents (Optional)
 * [Installation](#installation)
@@ -14,7 +14,7 @@ This application allows the user to keep track of their budget whether online or
 Run `npm install` to download required packages, then run `npm start`. 
 ## Usage
 
-![](/public/assets/images/screenshot2.png)
+![](/public/images/screenshot2.png)
 
 View the app on Heroku by [clicking here](https://pure-cliffs-48548.herokuapp.com/ "Visit the app")!
 
