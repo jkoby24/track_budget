@@ -16,7 +16,7 @@ Run `npm install` to download required packages, then run `npm start`.
 
 ![](/public/assets/images/screenshot2.png)
 
-View the app on Heroku by [clicking here](https://workout-exercises.herokuapp.com "Visit the app")!
+View the app on Heroku by [clicking here](https://pure-cliffs-48548.herokuapp.com/ "Visit the app")!
 
 ## License
 [mit](LICENSE)
